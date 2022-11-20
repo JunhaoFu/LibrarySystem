@@ -1,0 +1,5 @@
+CREATE DATABASE library;
+USE library;
+
+SET NAMES utf8;
+START TRANSACTION;
