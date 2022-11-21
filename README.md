@@ -20,4 +20,4 @@ This is a library management system based on spring and MySQL. The main function
     Authentication system provides login to multiple staffs. The relation is 1:N.
 
 ### ER-diagram
-<img source = "./image/ER-lib.png">
+<img src = "./image/ER-lib.png">
