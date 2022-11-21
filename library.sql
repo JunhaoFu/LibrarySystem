@@ -39,7 +39,7 @@ CREATE TABLE 'reader'(
     'address' VARCHAR ( 50 ) NOT NULL
 ) ENGINE = INNODB DEFAULT CHARSET = utf8;
 
-CREATE TABLE 'reserve'(
+CREATE TABLE 'reserve_return'(
     'reserveDate' date NOT NULL PRIMARY KEY,
     'returnDate' date NOT NULL,
     'dueDate' date NOT NULL,

@@ -9,6 +9,7 @@ This is a library management system based on spring and MySQL. The main function
     Authentication System Entity : It has LoginId and password with LoginID as Primary Key.
     Reports Entity : It has UserId, Reg_no, Book_no, Issue/Return date. Reg_no is the Primary Key of reports entity.
     Staff Entity : It has name and staff_id with staff_id as Primary Key.
+    Class Relationship Set: classID, className.
     Reserve/Return Relationship Set : It has three attributes: Reserve date, Due date, Return date.
 
 ### Relationships between Entities
